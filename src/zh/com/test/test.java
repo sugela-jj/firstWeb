@@ -9,7 +9,7 @@ public class test {
 
     public void cdShouuldNotbeNull()
      {
-        System.out.print(cd.toString()+"测试");
+        System.out.print(cd.toString()+"测试xixi");
     }
 
 }
